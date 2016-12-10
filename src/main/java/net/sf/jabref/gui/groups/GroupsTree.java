@@ -24,7 +24,6 @@ import java.io.IOException;
 import java.util.Enumeration;
 import java.util.List;
 import java.util.Objects;
-import java.util.Optional;
 import java.util.Vector;
 
 import javax.swing.JTree;
